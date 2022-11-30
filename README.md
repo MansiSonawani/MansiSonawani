@@ -2,11 +2,15 @@
 <h1 align="center">Hi 👋, I'm Mansi Sonawani</h1>
 <h3 align="center">A Full Stack Developer</h3>
 
+<img align="left" alt ="coding" width ="200" src = "https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mansisonawani&label=Profile%20views&color=0e75b6&style=flat" alt="mansisonawani" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mansisonawani" alt="mansisonawani" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/mamama" target="blank"><img src="https://img.shields.io/twitter/follow/mamama?logo=twitter&style=for-the-badge" alt="mamama" /></a> </p>
+
+
+<p align="left"> <a href="https://twitter.com/mamama" target="blank"><img src="https://img.shields.io/twitter/follow/mansikrogi?logo=twitter&style=for-the-badge" alt="mansikrogi" /></a> </p>
 
 - 🔭 I’m currently working on [Kodesprint](https://github.com/MansiSonawani/kodesprint)
 
