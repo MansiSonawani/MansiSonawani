@@ -4,42 +4,12 @@
 
 <img align="left" alt ="coding" width ="200" src = "https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mansisonawani&label=Profile%20views&color=0e75b6&style=flat" alt="mansisonawani" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mansisonawani" alt="mansisonawani" /></a> </p>
-
-
-
-<p align="left"> <a href="https://twitter.com/mamama" target="blank"><img src="https://img.shields.io/twitter/follow/mansikrogi?logo=twitter&style=for-the-badge" alt="mansikrogi" /></a> </p>
-
-- 🔭 I’m currently working on [Kodesprint](https://github.com/MansiSonawani/kodesprint)
-
-- 🌱 I’m currently learning **React, Express and Angular**
-
-- 👨‍💻 All of my projects are available at [https://github.com/MansiSonawani](https://github.com/MansiSonawani)
-
-- 💬 Ask me about **MERN and MEAN stack**
-
-- 📫 How to reach me **12345mansis@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1aQfnLv-yzJUBSjHvR2g0JEpSi_EYWaF2/view?usp=sharing](https://drive.google.com/file/d/1aQfnLv-yzJUBSjHvR2g0JEpSi_EYWaF2/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mamama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mamama" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/http://www.linkedin.com/in/mansi-sonawani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/mansi-sonawani" height="30" width="40" /></a>
-<a href="https://instagram.com/_mansi_krogi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_mansi_krogi" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a <h1 align="center">Hi 👋, I'm Mansi Sonawani</h1>
-<h3 align="center">A Full Stack Developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mansisonawani&label=Profile%20views&color=0e75b6&style=flat" alt="mansisonawani" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mansisonawani" alt="mansisonawani" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/mansikrogi" target="blank"><img src="https://img.shields.io/twitter/follow/mansikrogi?logo=twitter&style=for-the-badge" alt="mansikrogi" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mansisonawani&label=Profile%20views&color=0e75b6&style=flat" alt="mansisonawani" /> </p>
 
 - 🔭 I’m currently working on [Kodesprint](https://github.com/MansiSonawani/kodesprint)
 
