@@ -21,8 +21,7 @@
 
 - 📫 How to reach me **12345mansis@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/15_1RID3Q3VNwkI5CXN4MVKOSizStGDFT/view?usp=sharing
-
+- 📄 Know about my experiences [https://drive.google.com/file/d/15PaFI07h_koEGHE-Mw2SFiguUuHmFNeZ/view?usp=sharing]
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mansikrogi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mansikrogi" height="30" width="40" /></a>
