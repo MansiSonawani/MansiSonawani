@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **12345mansis@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1aQfnLv-yzJUBSjHvR2g0JEpSi_EYWaF2/view?usp=sharing](https://drive.google.com/file/d/1aQfnLv-yzJUBSjHvR2g0JEpSi_EYWaF2/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/15_1RID3Q3VNwkI5CXN4MVKOSizStGDFT/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
