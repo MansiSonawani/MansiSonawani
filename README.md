@@ -2,9 +2,10 @@
 <h1 align="center">Hi 👋, I'm Mansi Sonawani</h1>
 <h3 align="center">A Full Stack Developer</h3>
 
+<div>
 <img align="left" alt ="coding" width ="20%" src = "https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
-
 <p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mansisonawani" alt="mansisonawani" width"80%" /></a> </p>
+</div>
 
 <p align="left"> <a href="https://twitter.com/mansikrogi" target="blank"><img src="https://img.shields.io/twitter/follow/mansikrogi?logo=twitter&style=for-the-badge" alt="mansikrogi" /></a> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mansisonawani&label=Profile%20views&color=0e75b6&style=flat" alt="mansisonawani" /> </p>
