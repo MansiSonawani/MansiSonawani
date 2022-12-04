@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mansi Sonawani</h1>
 <h3 align="center">A Full Stack Developer</h3>
 
-<img align="left" alt ="coding" width ="200" src = "https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
+<img align="left" alt ="coding" width ="180" src = "https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
 
 <p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mansisonawani" alt="mansisonawani" /></a> </p>
 
