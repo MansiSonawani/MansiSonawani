@@ -29,7 +29,7 @@
 
 </p>
 
-<a href="https://drive.google.com/file/d/1l_6ccHQDFHu4LmF7HqUUrh9XasYKv0Jg/view?usp=sharing" target="_blank">
+<a href="https://drive.google.com/file/d/1P3xUprK00vdY_NjrjU6B5l4Qont5tn_0/view?usp=sharing" target="_blank">
 <img src=https://img.shields.io/badge/Resume-Mansi%20Sonawani-brightgreen style="margin-bottom: 5px;" />
 </a>
 
