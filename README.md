@@ -16,18 +16,19 @@
 
 
 
-<p>
-- 🔭 I’m currently working on [Kodesprint](https://github.com/MansiSonawani/kodesprint)
 
-- 🌱 I’m currently learning **React, Express and Angular**
+<ul>
+<li>🔭 I’m currently working on [Kodesprint](https://github.com/MansiSonawani/kodesprint)
 
-- 👨‍💻 All of my projects are available at [https://github.com/MansiSonawani](https://github.com/MansiSonawani)
+<li> 🌱 I’m currently learning **React, Express and Angular**
 
-- 💬 Ask me about **MERN and MEAN stack**
+<li> 👨‍💻 All of my projects are available at [https://github.com/MansiSonawani](https://github.com/MansiSonawani)
 
-- 📫 How to reach me **12345mansis@gmail.com**
+<li> 💬 Ask me about **MERN and MEAN stack**
 
-</p>
+<li> 📫 How to reach me **12345mansis@gmail.com**
+</ul>
+
 
 <a href="https://drive.google.com/file/d/1P3xUprK00vdY_NjrjU6B5l4Qont5tn_0/view?usp=sharing" target="_blank">
 <img src=https://img.shields.io/badge/Resume-Mansi%20Sonawani-brightgreen style="margin-bottom: 5px;" />
