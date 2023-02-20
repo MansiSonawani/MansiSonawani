@@ -26,7 +26,7 @@
  </div>
 
 
-<a href="https://drive.google.com/file/d/1P3xUprK00vdY_NjrjU6B5l4Qont5tn_0/view?usp=sharing" target="_blank">
+<a href="https://drive.google.com/file/d/1GWkmZ-AKWKktQhrNT-9KlNFTumK7Bie5/view?usp=sharing">
 <img src=https://img.shields.io/badge/Resume-Mansi%20Sonawani-brightgreen style="margin-bottom: 5px;" />
 </a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mansisonawani&label=Profile%20views&color=0e75b6&style=flat" alt="mansisonawani" /> </p>
