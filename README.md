@@ -17,7 +17,7 @@
 
 <li> 🌱 I’m currently learning React, Express and Angular
 
-<li> 👨‍💻 All of my projects are available at [https://github.com/MansiSonawani](https://github.com/MansiSonawani)
+<!-- <li> 👨‍💻 All of my projects are available at [https://github.com/MansiSonawani](https://github.com/MansiSonawani)  -->
 
 <li> 💬 Ask me about MERN and MEAN stack
 
