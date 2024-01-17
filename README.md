@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on **Codely**
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning  **Mocha** **Jest** **NextJS**
 
-- 💬 Ask me about **React Django NextJs**
+- 💬 Ask me about **ReactJs Django NextJs**
 
 - 📫 How to reach me **12345mansis@gmail.com**
 
